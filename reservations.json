@@ -1,0 +1,9 @@
+[
+    {
+        "flightNumber": 100,
+        "passengerId": 1,
+        "reservationId": 101,
+        "seatNumber": 5,
+        "status": "Cancelled"
+    }
+]

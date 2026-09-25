@@ -1,0 +1,11 @@
+    [
+    {
+        "arrivalTime": "22",
+        "availableSeats": 11,
+        "departure": "4",
+        "departureTime": "9",
+        "destination": "alex",
+        "flightNumber": 100,
+        "status": "Delayed"
+    }
+]

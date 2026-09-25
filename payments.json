@@ -1,0 +1,16 @@
+[
+    {
+        "amount": 2500.0,
+        "method": "visa",
+        "paymentId": 5001,
+        "reservationId": 1001,
+        "status": "Paid"
+    },
+    {
+        "amount": 11.0,
+        "method": "visa",
+        "paymentId": 1,
+        "reservationId": 101,
+        "status": "Refunded"
+    }
+]

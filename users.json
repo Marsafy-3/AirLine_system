@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 2300,
+            "name": "ahmed",
+            "password": "ahmed33",
+            "role": "Passenger"
+        },
+        {
+            "id": 2222,
+            "name": "mo",
+            "password": "momo",
+            "role": "Passenger"
+        },
+        {
+            "id": 100,
+            "name": "admin",
+            "password": "admin",
+            "role": "Admin"
+        },
+        {
+            "id": 200,
+            "name": "agent",
+            "password": "123",
+            "role": "BookingAgent"
+        }
+    ]
+}
